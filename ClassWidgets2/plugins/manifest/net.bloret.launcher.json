@@ -1,0 +1,13 @@
+{
+  "id": "net.bloret.launcher",
+  "name": "Bloret Launcher",
+  "version": "26.0.0",
+  "api_version": "~=0.3.0",
+  "description": "Conveniently manage your Minecraft, conveniently play Bloret. 便捷地管理你的 Minecraft，便捷地游玩 Bloret。",
+  "author": "Bloret",
+  "url": "https://github.com/BloretCrew/Bloret-Launcher4Class-Widget2",
+  "branch": "main",
+  "readme": "README.md",
+  "icon": "icon.png",
+  "tags": ["Productivity", "Utility", "Game", "entertainment"]
+}
